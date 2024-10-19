@@ -1,4 +1,4 @@
 export const environment = {
-  SERVER_URL: "https://ta-te-ti-online-tutorial-back.onrender.com",
-  CLIENT_URL: "https://ta-te-ti-online.netlify.app"
+  SERVER_URL: "https://tateti-online-back.onrender.com",
+  CLIENT_URL: "https://tateti-online-front.vercel.app/"
 };
